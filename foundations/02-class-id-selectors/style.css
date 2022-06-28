@@ -1,0 +1,16 @@
+.odd-numbered {
+    background-color: rgba(255,167,167,255);
+    font-family: 'Verdan', 'DejaVu sans', sans-serif;
+}
+#nb2 {
+    color: rgba(0, 0, 255);
+    font-size: 36px;
+}
+#nb3 {
+    font-size: 24px;
+}
+#nb4 {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
